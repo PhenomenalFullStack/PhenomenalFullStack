@@ -1,4 +1,4 @@
-# Hi there! 👋 My Name Is Phala Jabez
+# Hi there! 👋 My Name Is Jabez Phala
 
 Welcome to my GitHub profile! Here you'll find a showcase of my projects, contributions, and interests in full-stack development. I'm passionate about building scalable applications, exploring new technologies, and collaborating with the open-source community.
 
@@ -32,10 +32,10 @@ This README lists and describes all major repositories.
 
 ---
 
-## [Statistical_Analysis](https://github.com/PhenomenalFullStack/Statistical_Analysis)
-This repo consist of statistical inference and analysis using coding language R
-**Description:** statistical inference and analysis provided by universit of johannesburg 
-**Access:** [Statistical_Analysis](https://github.com/PhenomenalFullStack/Statistical_Analysis)
+## [team28-dev](https://github.com/IFMTYP-2023/team28-dev)
+2023 final year application Website and associated backend/mobile projects for Group 28.  
+**Description:** Comprehensive project including website, backend, and mobile components, developed for the final year application.  
+**Access:** [team28-dev Repository](https://github.com/IFMTYP-2023/team28-dev)
 
 ---
 
@@ -61,10 +61,24 @@ OnTime is a high road pick-up system designed for people who are delayed by traf
 
 ---
 
+## [Second Year Website & API Proposals](https://github.com/PhenomenalFullStack/Second_Yeah_WebsiteProposalsProject_HTMLites)
+Four team memebers developing an e-commerece website over a period og 6 months.
+**Description:** This platforms facilitate the buying and selling of goods and services over the internet.
+**Access:** [Second Year Website & API Proposals](https://github.com/PhenomenalFullStack/Second_Yeah_WebsiteProposalsProject_HTMLites)
+
+---
+
 ## [ConvetorToCelcious_Html_Js_Css](https://github.com/PhenomenalFullStack/ConvetorToCelcious_Html_Js_Css)
 This project is a simple temperature converter built with HTML, JavaScript, and CSS.  
 **Tech:** JavaScript, HTML, CSS  
 **Access:** [ConvetorToCelcious_Html_Js_Css Repository](https://github.com/PhenomenalFullStack/ConvetorToCelcious_Html_Js_Css)
+
+---
+
+## [Statistical_Analysis](https://github.com/PhenomenalFullStack/Statistical_Analysis)
+This repo consist of statistical inference and analysis using coding language R
+**Description:** statistical inference and analysis provided by universit of johannesburg 
+**Access:** [Statistical_Analysis](https://github.com/PhenomenalFullStack/Statistical_Analysis)
 
 ---
 
@@ -75,12 +89,6 @@ C# project for Assignment 2.
 
 ---
 
-## [team28-dev](https://github.com/IFMTYP-2023/team28-dev)
-2023 final year application Website and associated backend/mobile projects for Group 28.  
-**Description:** Comprehensive project including website, backend, and mobile components, developed for the final year application.  
-**Access:** [team28-dev Repository](https://github.com/IFMTYP-2023/team28-dev)
-
----
 <!--
 ## 📝 Latest Blog Posts
 

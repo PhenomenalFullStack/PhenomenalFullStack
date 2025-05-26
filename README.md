@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, contri
 - 📫 How to reach me: phenomenaljabez@gmail.com
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, ASP.NET, HTML5, CSS3, SASS
+- **Frontend:** React, JavaScript, ASP.NET, HTML5, CSS3
 - **Mobile:** Xamarin (Android, IOS and Hybrid Applications), React Native
 - **Backend:** Java, Python, Django, C#, Springboot, Maven Libraries, C++, VB
 - **Databases:** PostgreSQL, MySQL
@@ -29,6 +29,21 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, contri
 # Top Repositories
 
 This README lists and describes all major repositories.
+
+---
+
+## [Statistical_Analysis](https://github.com/PhenomenalFullStack/Statistical_Analysis)
+This repo consist of statistical inference and analysis using coding language R
+**Description:** statistical inference and analysis provided by universit of johannesburg 
+**Access:** [Statistical_Analysis](https://github.com/PhenomenalFullStack/Statistical_Analysis)
+
+---
+
+## [FNB-APP-Academy](https://github.com/PhenomenalFullStack/Phenomenal-FNB-APP-Academy)
+This is a 9 week App-accademy 2025 bootcamp pprovided by FNB and itVasirty.
+**Description:** Focused on Web development, Application development, and API development showcasing full-stack concepts and modular architecture.
+It is divided into bigginer level(Html5, css3), Intermididate level(javascript), and advanced lecel(Backend and API's). 
+**Access:** [Phenomenal-FNB-APP-Academy](https://github.com/PhenomenalFullStack/Phenomenal-FNB-APP-Academy)
 
 ---
 

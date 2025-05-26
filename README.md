@@ -76,8 +76,8 @@ Four team memebers developing an e-commerece website over a period og 6 months.
 ---
 
 ## [Statistical_Analysis](https://github.com/PhenomenalFullStack/Statistical_Analysis)
-This repo consist of statistical inference and analysis using coding language R
-**Description:** statistical inference and analysis provided by universit of johannesburg 
+This repo consist of statistical inference and analysis using coding language R.  
+**Description:** statistical inference and analysis provided by universit of johannesburg  
 **Access:** [Statistical_Analysis](https://github.com/PhenomenalFullStack/Statistical_Analysis)
 
 ---

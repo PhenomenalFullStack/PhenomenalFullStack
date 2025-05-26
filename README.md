@@ -83,7 +83,7 @@ This repo consist of statistical inference and analysis using coding language R.
 ---
 
 ## [Assignment2](https://github.com/PhenomenalFullStack/Assignment2)
-C# project for Assignment 2.  
+**Description:** C# project for Assignment 2 via github.  
 **Tech:** C#  
 **Access:** [Assignment2 Repository](https://github.com/PhenomenalFullStack/Assignment2)
 

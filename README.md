@@ -40,9 +40,9 @@ This README lists and describes all major repositories.
 ---
 
 ## [FNB-APP-Academy](https://github.com/PhenomenalFullStack/Phenomenal-FNB-APP-Academy)
-This is a 9 week App-accademy 2025 bootcamp pprovided by FNB and itVasirty.
-**Description:** Focused on Web development, Application development, and API development showcasing full-stack concepts and modular architecture.
-It is divided into bigginer level(Html5, css3), Intermididate level(javascript), and advanced lecel(Backend and API's). 
+This is a 9 week App-accademy 2025 bootcamp pprovided by FNB and itVasirty.  
+**Description:** Focused on Web development, Application development, and API development showcasing full-stack concepts and modular architecture.  
+It is divided into bigginer level(Html5, css3), Intermididate level(javascript), and advanced lecel(Backend and API's).   
 **Access:** [Phenomenal-FNB-APP-Academy](https://github.com/PhenomenalFullStack/Phenomenal-FNB-APP-Academy)
 
 ---
@@ -55,15 +55,15 @@ This is a 3-tier project focusing on various technologies.
 ---
 
 ## [OnTime](https://github.com/PhenomenalFullStack/OnTime)
-OnTime is a high road pick-up system designed for people who are delayed by traffic. It locates customers and provides two types of drivers: one for quick pickup by motorbike and another for waiting in traffic and driving the car to the assigned destination.  
+OnTime is a high road pick-up system designed for people who are delayed by traffic. It locates customers and provides two types of drivers: one for quick pickup by motorbike and another for waiting in traffic and driving the car to the assigned destination.   
 **Tech:** HTML  
-**Access:** [OnTime Repository](https://github.com/PhenomenalFullStack/OnTime)
+**Access:** [OnTime Repository](https://github.com/PhenomenalFullStack/OnTime)  
 
 ---
 
 ## [Second Year Website & API Proposals](https://github.com/PhenomenalFullStack/Second_Yeah_WebsiteProposalsProject_HTMLites)
 Four team memebers developing an e-commerece website over a period og 6 months.
-**Description:** This platforms facilitate the buying and selling of goods and services over the internet.
+**Description:** This platforms facilitate the buying and selling of goods and services over the internet.  
 **Access:** [Second Year Website & API Proposals](https://github.com/PhenomenalFullStack/Second_Yeah_WebsiteProposalsProject_HTMLites)
 
 ---

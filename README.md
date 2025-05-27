@@ -94,7 +94,7 @@ This repo consist of statistical inference and analysis using coding language R.
 
 <!-- To-Do-->
 <!-- BLOG-POST-LIST:START -->
-<!-- Replace with your blog feed or recent posts 
+<!-- Replace with your blog feed or even recent posts
 - [How to Build a REST API with Node.js](#)
 - [Getting Started with React Hooks](#)
  BLOG-POST-LIST:END -->
